@@ -1,3 +1,18 @@
 body{
     background: blue;
 }
+h1 {
+background-color: yellow;
+height: 120px;
+display: inline;
+}
+span {
+background-color: aqua;
+height: 500px;
+display: inline-block;
+border-top: 4px solid black
+}
+p {
+    background-color: bisque;
+    height: 120px;
+}
