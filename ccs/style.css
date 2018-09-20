@@ -10,7 +10,8 @@ span {
 background-color: aqua;
 height: 500px;
 display: inline-block;
-border-top: 4px solid black
+border-top: 4px solid black;
+
 }
 p {
     background-color: bisque;
